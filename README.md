@@ -8,7 +8,7 @@
 - Edge Native Application Principles Whitepaper - https://www.cncf.io/wp-content/uploads/2023/03/CNCF_WhitepaperReport_23.pdf
 - Sony and Cloud Gaming - https://www.altchar.com/game-news/sony-confirm-aggressive-plans-for-playstation-cloud-gaming-aXZkk1Z6XEKG
 - Technical Problems of Cloud Gaming - https://www.ft.com/content/4b410761-78d8-4bec-a48b-79f1373d42e1
-- Coopetition by Oxford Research Encyclopedias - https://oxfordre.com/business/display/10.1093/acrefore/9780190224851.001.0001/acrefore-9780190224851-e-9?d=%2F10.1093%2Facrefore%2F9780190224851.001.0001%2Facrefore-9780190224851-e-9&p=emailAWNS8b1AGR8MM
+- Coopetition by Oxford Research Encyclopedias - https://oxfordre.com/business/display/10.1093/acrefore/9780190224851.001.0001/acrefore-9780190224851-e-9
 - Coopetition by Adam M. Brandenburger and Barry J. Nalebuff - https://www.strategy-business.com/article/17483
 - Space Shuttle Design and Problems - https://apps.dtic.mil/sti/pdfs/ADA305296.pdf
 - Multus CNI - https://github.com/k8snetworkplumbingwg/multus-cni
